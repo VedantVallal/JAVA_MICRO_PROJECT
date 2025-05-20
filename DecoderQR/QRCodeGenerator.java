@@ -26,6 +26,8 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
 
+//This is the my First Java Project 
+
 public class QRCodeGenerator extends JFrame implements ActionListener {
     // Generator components
     private JTextField textField;
